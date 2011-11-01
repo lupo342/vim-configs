@@ -4,3 +4,6 @@
 [submodule "bundle/rails"]
 	path = bundle/rails
 	url = http://github.com/tpope/vim-rails.git
+[submodule "bundle/latex"]
+	path = bundle/latex
+	url = https://github.com/vim-latex/vim-latex.github.com.git
