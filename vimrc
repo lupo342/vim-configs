@@ -2,6 +2,7 @@ filetype off
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 filetype plugin indent on
+g:Tex_ViewRule_pdf='Preview'
 set nocompatible
 set modelines=0
 set transparency=10
