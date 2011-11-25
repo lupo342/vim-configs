@@ -28,3 +28,6 @@
 [submodule "bundle/java"]
 	path = bundle/java
 	url = git://github.com/vim-scripts/java.vim.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = https://github.com/vim-scripts/vimwiki.git

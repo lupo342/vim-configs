@@ -11,6 +11,9 @@ set background=light
 colorscheme solarized
 
 set autoindent
+set ts=2
+set bs=2
+set shiftwidth=2
 set showmode
 set showcmd
 set relativenumber
@@ -21,4 +24,5 @@ set ignorecase
 set smartcase
 set incsearch
 set showmatch
+set mat=5
 nnoremap <leader><space> :noh<cr>
