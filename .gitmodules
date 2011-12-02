@@ -34,3 +34,9 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = https://github.com/scrooloose/snipmate-snippets.git
